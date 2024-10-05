@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ashley 👋
 
-<!--
-**ashtagging/ashtagging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 &nbsp;About Me 
 
-Here are some ideas to get you started:
+🏢 I'm a software developer currently living in London 
+💻 I work in the Sports Betting Industry 
+🌱 Currently learning Data structures & Algorithms
+⭐  I am currently working on   [Wildernest]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal Website 👉 [ashtagging.com](https://ashtagging.com).
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=cs,mysql,js,python,css,sass,html)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![Languages](https://skillicons.dev/icons?i=net,react,nodejs,bootstrap)](https://skillicons.dev)
+
+### Tools, OS & platforms I have used for work
+[![Languages](https://skillicons.dev/icons?i=notion,gitlab,aws,git,github,vscode,visualstudio)](https://skillicons.dev)
+
+## 🔢 My Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtagging&layout=compact)
+
+## 🤝 Connect with Me
+[![Ashley Littlewood](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-littlewood-a2233310a/)](https://www.linkedin.com/in/ashley-littlewood-a2233310a/)
