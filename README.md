@@ -2,25 +2,27 @@
 
 ## 💻 About Me 
 
-🏢 I'm a software developer living in London 
+ - 🏢 I'm a software developer living in London 
 
-🏈 Working in Sports Betting
+ - 🏈 Working in Sports Betting
 
-🌱 Currently learning Data structures & Algorithms
+ - 🌱 Currently learning Data structures & Algorithms
 
-⭐ Working on  [Wildernest](https://github.com/ashtagging/Wildernest)
+ - ⭐ Working on  [Wildernest](https://github.com/ashtagging/Wildernest)
 
 
 #### Personal Website 👉 [ashtagging.com](https://ashtagging.com).
 
-## Languages
+## Tech Stack
+
+#### Languages
 [![Languages](https://skillicons.dev/icons?i=cs,mysql,js,python,css,sass,html)](https://skillicons.dev)
 
-## Frameworks & Libraries
+#### Frameworks & Libraries
 [![Languages](https://skillicons.dev/icons?i=net,react,nodejs,bootstrap)](https://skillicons.dev)
 
-## Tools, OS & platforms I have used for work
-[![Languages](https://skillicons.dev/icons?i=notion,gitlab,aws,git,github,vscode,visualstudio)](https://skillicons.dev)
+#### Tools, OS & platforms I worked with
+[![Languages](https://skillicons.dev/icons?i=gitlab,aws,git,github,vscode,visualstudio,notion)](https://skillicons.dev)
 
 ## 🔢 My Stats
 
