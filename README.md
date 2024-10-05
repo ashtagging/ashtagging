@@ -2,15 +2,15 @@
 
 ## 💻 About Me 
 
+Personal Website 👉 [ashtagging.com](https://ashtagging.com).
+
 🏢 I'm a software developer currently living in London
 
 💻 I work in the Sports Betting Industry 
 
 🌱 Currently learning Data structures & Algorithms
 
-⭐  I am currently working on   [Wildernest](https://github.com/ashtagging/Wildernest)
-
-Personal Website 👉 [ashtagging.com](https://ashtagging.com).
+⭐ I am currently working on  [Wildernest](https://github.com/ashtagging/Wildernest)
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=cs,mysql,js,python,css,sass,html)](https://skillicons.dev)
