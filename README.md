@@ -24,9 +24,5 @@
 #### Tools, OS & platforms I worked with
 [![Languages](https://skillicons.dev/icons?i=gitlab,aws,git,github,vscode,visualstudio,notion)](https://skillicons.dev)
 
-## 🔢 My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtagging&layout=compact)
-
 ## 🤝 Connect with Me
 [![Ashley Littlewood](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-littlewood-a2233310a/)](https://www.linkedin.com/in/ashley-littlewood-a2233310a/)
