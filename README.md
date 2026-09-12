@@ -6,9 +6,9 @@
 
  - 🏈 Working in Sports Betting
 
- - 🌱 Currently learning Data structures & Algorithms
+ - 🌱 Currently building web Apps & websites
 
- - ⭐ Working on  [Wildernest](https://github.com/ashtagging/Wildernest)
+ - ⭐ Working on  [Ashtagging.com](www.ashtagging.com)
 
 
 #### Personal Website 👉 [ashtagging.com](https://ashtagging.com).
